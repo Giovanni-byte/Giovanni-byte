@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Giovanni Franco
-- 👓 I’m interested in front-end development
-- 📖 I’m currently learning JavaScript, NodeJS, Phyton
+- 👓 I’m interested in Data Analysis
+- 📖 I’m currently learning Power BI, SQL and Phyton
 - 🗄️ I’m looking to collaborate on software development companies
 - 📧 Contat me: giovanni.franco.prof@gmail.com
 - 🐲 Fun fact: I'm fascinated by reptiles, dinosaurs and dragons
